@@ -10,17 +10,17 @@
 ввести имя и возраст.
 3. Для каждого сотрудника
 вывести информацию о нем и его детях.
-4. Закончить.  */
+4. Закончить.
 
-// package firma2;
+ package firma2;
 import java.util.Scanner;
 
-        class Sotrudnik {
+        /*class Sotrudnik {
         String fam, im, otch, doljnost;
         int kolDet;
         Rebenok[] reb = null;
     }
-class Rebenok { /* полем класса Sotrudnik является массив объектов класса Rebenok*/
+class Rebenok {  полем класса Sotrudnik является массив объектов класса Rebenok
     String imaR;
     int vozrastR;
 }
@@ -74,5 +74,5 @@ public class RecSotr1 {
             System.out.println("");
         }
      }
-}
+} */
 

@@ -20,7 +20,7 @@ public class Firma {
         int kol = sc.nextInt();
         sc.nextLine(); // очистка буфера после ввода числа
 
-        Sotrudnik[] sotr = new Sotrudnik[kol]; // получена ссылка на массив  сотрудников
+        Sotrudnik[] sotr = new Sotrudnik[kol]; // получена ссылка на массив сотрудников
 
         System.out.println("Введите информацию о каждом сотруднике: ");
         for (int i = 0; i < sotr.length; i++) {
